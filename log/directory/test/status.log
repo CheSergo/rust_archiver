@@ -1,0 +1,827 @@
+2023-08-11T07:50:03.743408544+00:00 [INFO] Program started
+2023-08-11T07:50:03.758313824+00:00 [INFO] Config file already exists at "./config/config.yml"
+2023-09-01T13:32:46.256891986+00:00 [INFO] Program started
+2023-09-01T13:32:46.278053010+00:00 [INFO] Config file already exists at "./config/config.yml"
+2023-09-01T13:32:46.286033584+00:00 [INFO] Initializing config
+2023-09-01T13:32:46.294503750+00:00 [INFO] Program execution started
+2023-09-01T13:34:40.380914819+00:00 [INFO] Program started
+2023-09-01T13:34:40.390787021+00:00 [INFO] Config file already exists at "./config/config.yml"
+2023-09-01T13:34:40.398905523+00:00 [INFO] Initializing config
+2023-09-01T13:34:40.406328791+00:00 [INFO] Program execution started
+2023-09-04T06:35:17.985789312+00:00 [INFO] Program started
+2023-09-04T06:35:17.998977869+00:00 [INFO] Config file already exists at "./config/config.yml"
+2023-09-04T06:35:18.005229041+00:00 [INFO] Initializing config
+2023-09-04T06:35:18.011615979+00:00 [INFO] Program execution started
+2023-09-04T06:35:49.812133709+00:00 [INFO] Program started
+2023-09-04T06:35:49.833574221+00:00 [INFO] Config file already exists at "./config/config.yml"
+2023-09-04T06:35:49.844260324+00:00 [INFO] Initializing config
+2023-09-04T06:35:49.854653117+00:00 [INFO] Program execution started
+2023-09-04T06:50:09.262906049+00:00 [INFO] Program started
+2023-09-04T06:50:09.275056922+00:00 [INFO] Config file already exists at "./config/config.yml"
+2023-09-04T06:50:09.281355840+00:00 [INFO] Initializing config
+2023-09-04T06:50:09.289955307+00:00 [INFO] Program execution started
+2023-09-04T09:27:12.127501951+00:00 [INFO] Program started
+2023-09-04T09:27:12.143594233+00:00 [INFO] Config file already exists at "./config/config.yml"
+2023-09-04T09:27:12.151295960+00:00 [INFO] Initializing config
+2023-09-04T09:27:12.159868527+00:00 [INFO] Program execution started
+2023-09-04T09:27:12.173351399+00:00 [INFO] Sleep time first - 86387s
+2023-09-04T09:27:25.941114200+00:00 [INFO] Program started
+2023-09-04T09:27:25.953193228+00:00 [INFO] Config file already exists at "./config/config.yml"
+2023-09-04T09:27:25.959694528+00:00 [INFO] Initializing config
+2023-09-04T09:27:25.969004007+00:00 [INFO] Program execution started
+2023-09-04T09:27:25.977196949+00:00 [INFO] Sleep time first - 94s
+2023-09-04T09:29:01.081471914+00:00 [INFO] /mnt/backups is a mount point
+2023-09-04T09:29:01.090833148+00:00 [INFO] Start making tar
+2023-09-04T09:35:47.412206755+00:00 [INFO] Sleep time first - 85992s
+2023-09-04T11:15:22.845317631+00:00 [INFO] Program started
+2023-09-04T11:15:22.861896722+00:00 [INFO] Config file already exists at "./config/config.yml"
+2023-09-04T11:15:22.870169554+00:00 [INFO] Initializing config
+2023-09-04T11:15:22.878806234+00:00 [INFO] Program execution started
+2023-09-04T11:15:22.893308899+00:00 [INFO] Sleep time first - 80017s
+2023-09-04T11:17:19.977899402+00:00 [INFO] Program started
+2023-09-04T11:17:19.991302681+00:00 [INFO] Config file already exists at "./config/config.yml"
+2023-09-04T11:17:19.998646597+00:00 [INFO] Initializing config
+2023-09-04T11:17:20.006873901+00:00 [INFO] Program execution started
+2023-09-04T11:17:20.016588559+00:00 [INFO] Sleep time first - 99s
+2023-09-04T11:19:00.206937653+00:00 [WARN] /mnt/backups is not a mount point
+2023-09-04T11:19:01.129941170+00:00 [INFO] Directory mounted successfully
+2023-09-04T11:19:01.149092772+00:00 [INFO] Start making tar
+2023-09-04T11:19:01.160685061+00:00 [INFO] Reading dir
+2023-09-04T11:19:01.172311798+00:00 [INFO] Creating tar: /var/www/r_archiver_old.tar.gz
+2023-09-04T11:25:42.383627237+00:00 [INFO] Tar finished: /var/www/r_archiver_old.tar.gz
+2023-09-04T11:48:03.991731464+00:00 [INFO] Program started
+2023-09-04T11:48:04.004095693+00:00 [INFO] Config file already exists at "./config/config.yml"
+2023-09-04T11:48:04.009909965+00:00 [INFO] Initializing config
+2023-09-04T11:48:04.016497359+00:00 [INFO] Program execution started
+2023-09-04T11:48:04.026090304+00:00 [INFO] Sleep time first - 84655s
+2023-09-04T11:48:16.116553486+00:00 [INFO] Program started
+2023-09-04T11:48:16.134342813+00:00 [INFO] Config file already exists at "./config/config.yml"
+2023-09-04T11:48:16.146115368+00:00 [INFO] Initializing config
+2023-09-04T11:48:16.159124382+00:00 [INFO] Program execution started
+2023-09-04T11:48:16.168416732+00:00 [INFO] Sleep time first - 43s
+2023-09-04T11:49:00.340111827+00:00 [INFO] /mnt/backups is a mount point
+2023-09-04T11:49:00.349589248+00:00 [INFO] Start making tar
+2023-09-04T11:49:00.360326259+00:00 [INFO] Reading dir
+2023-09-04T11:49:00.370228824+00:00 [INFO] Creating tar: /var/www/r_archiver_old.tar.gz
+2023-09-04T11:54:51.706445334+00:00 [INFO] Program started
+2023-09-04T11:54:51.715193459+00:00 [INFO] Config file already exists at "./config/config.yml"
+2023-09-04T11:54:51.722707582+00:00 [INFO] Initializing config
+2023-09-04T11:54:51.731763882+00:00 [INFO] Program execution started
+2023-09-04T11:54:51.740545465+00:00 [INFO] Sleep time first - 86048s
+2023-09-04T11:55:08.824684312+00:00 [INFO] Program started
+2023-09-04T11:55:08.840957183+00:00 [INFO] Config file already exists at "./config/config.yml"
+2023-09-04T11:55:08.849438899+00:00 [INFO] Initializing config
+2023-09-04T11:55:08.858997252+00:00 [INFO] Program execution started
+2023-09-04T11:55:08.869254293+00:00 [INFO] Sleep time first - 51s
+2023-09-04T11:56:00.901460399+00:00 [INFO] /mnt/backups is a mount point
+2023-09-04T11:56:00.912542128+00:00 [INFO] Start making tar
+2023-09-04T11:57:50.361531373+00:00 [INFO] Program started
+2023-09-04T11:57:50.378034089+00:00 [INFO] Config file already exists at "./config/config.yml"
+2023-09-04T11:57:50.391618957+00:00 [INFO] Initializing config
+2023-09-04T11:57:50.403154776+00:00 [INFO] Program execution started
+2023-09-04T11:57:50.413450209+00:00 [INFO] Sleep time first - 9s
+2023-09-04T11:58:00.435695384+00:00 [INFO] /mnt/backups is a mount point
+2023-09-04T11:58:00.446974431+00:00 [INFO] Start making tar
+2023-09-04T11:58:00.456323123+00:00 [INFO] Reading dir
+2023-09-04T12:17:10.351634209+00:00 [INFO] Program started
+2023-09-04T12:17:10.421787044+00:00 [INFO] Config file already exists at "./config/config.yml"
+2023-09-04T12:17:10.432686034+00:00 [INFO] Initializing config
+2023-09-04T12:17:10.444045073+00:00 [INFO] Program execution started
+2023-09-04T12:17:10.500702016+00:00 [INFO] Sleep time first - 86329s
+2023-09-04T12:17:19.485055392+00:00 [INFO] Program started
+2023-09-04T12:17:19.507405970+00:00 [INFO] Config file already exists at "./config/config.yml"
+2023-09-04T12:17:19.520427131+00:00 [INFO] Initializing config
+2023-09-04T12:17:19.532224067+00:00 [INFO] Program execution started
+2023-09-04T12:17:19.544035472+00:00 [INFO] Sleep time first - 40s
+2023-09-04T12:18:00.569552241+00:00 [INFO] /mnt/backups is a mount point
+2023-09-04T12:18:00.577673262+00:00 [INFO] Start making tar
+2023-09-04T12:18:00.588429537+00:00 [INFO] Reading dir
+2023-09-04T12:23:08.763230133+00:00 [INFO] Program started
+2023-09-04T12:23:08.776093556+00:00 [INFO] Config file already exists at "./config/config.yml"
+2023-09-04T12:23:08.838512319+00:00 [INFO] Initializing config
+2023-09-04T12:23:08.847488860+00:00 [INFO] Program execution started
+2023-09-04T12:23:08.855151181+00:00 [INFO] Sleep time first - 51s
+2023-09-04T12:24:00.878920004+00:00 [INFO] /mnt/backups is a mount point
+2023-09-04T12:24:00.888592822+00:00 [INFO] Start making tar
+2023-09-04T12:24:00.897347843+00:00 [INFO] Reading dir
+2023-09-04T12:24:00.908418493+00:00 [INFO] Creating tar: /mnt/backups/var/www/r_archiver_old.tar.gz
+2023-09-04T12:29:56.923651238+00:00 [INFO] Program started
+2023-09-04T12:29:56.957915838+00:00 [INFO] Config file already exists at "./config/config.yml"
+2023-09-04T12:29:56.968454729+00:00 [INFO] Initializing config
+2023-09-04T12:29:56.980312122+00:00 [INFO] Program execution started
+2023-09-04T12:29:57.051136246+00:00 [INFO] Sleep time first - 2s
+2023-09-04T12:30:00.085962899+00:00 [INFO] /mnt/backups is a mount point
+2023-09-04T12:30:00.110024675+00:00 [INFO] Start making tar
+2023-09-04T12:30:00.124132338+00:00 [INFO] Reading dir
+2023-09-04T12:31:12.224642662+00:00 [INFO] Program started
+2023-09-04T12:31:12.256670190+00:00 [INFO] Config file already exists at "./config/config.yml"
+2023-09-04T12:31:12.273528733+00:00 [INFO] Initializing config
+2023-09-04T12:31:12.336337189+00:00 [INFO] Program execution started
+2023-09-04T12:31:12.347385506+00:00 [INFO] Sleep time first - 47s
+2023-09-04T12:32:00.364349530+00:00 [INFO] /mnt/backups is a mount point
+2023-09-04T12:32:00.373280654+00:00 [INFO] Start making tar
+2023-09-04T12:32:00.383351137+00:00 [INFO] Reading dir
+2023-09-04T12:36:42.367183425+00:00 [INFO] Program started
+2023-09-04T12:36:42.383933533+00:00 [INFO] Config file already exists at "./config/config.yml"
+2023-09-04T12:36:42.393355438+00:00 [INFO] Initializing config
+2023-09-04T12:36:42.403040528+00:00 [INFO] Program execution started
+2023-09-04T12:36:42.412439805+00:00 [INFO] Sleep time first - 17s
+2023-09-04T12:37:00.434508658+00:00 [INFO] /mnt/backups is a mount point
+2023-09-04T12:37:00.445697289+00:00 [INFO] Start making tar
+2023-09-04T12:37:00.457498062+00:00 [INFO] Reading dir
+2023-09-04T12:38:05.704808655+00:00 [INFO] Program started
+2023-09-04T12:38:05.731187806+00:00 [INFO] Config file already exists at "./config/config.yml"
+2023-09-04T12:38:05.741563188+00:00 [INFO] Initializing config
+2023-09-04T12:38:05.752335260+00:00 [INFO] Program execution started
+2023-09-04T12:38:05.762203879+00:00 [INFO] Sleep time first - 86394s
+2023-09-04T12:41:05.278070956+00:00 [INFO] Program started
+2023-09-04T12:41:05.293800616+00:00 [INFO] Config file already exists at "./config/config.yml"
+2023-09-04T12:41:05.303097618+00:00 [INFO] Initializing config
+2023-09-04T12:41:05.313467890+00:00 [INFO] Program execution started
+2023-09-04T12:41:05.323145825+00:00 [INFO] Sleep time first - 54s
+2023-09-04T12:42:00.343840624+00:00 [INFO] /mnt/backups is a mount point
+2023-09-04T12:42:00.354430127+00:00 [INFO] Start making tar
+2023-09-04T12:42:00.364716037+00:00 [INFO] Reading dir
+2023-09-04T12:57:09.979053953+00:00 [INFO] Program started
+2023-09-04T12:57:09.994465150+00:00 [INFO] Config file already exists at "./config/config.yml"
+2023-09-04T12:57:10.002501985+00:00 [INFO] Initializing config
+2023-09-04T12:57:10.012483321+00:00 [INFO] Program execution started
+2023-09-04T12:57:10.025090671+00:00 [INFO] Sleep time first - 49s
+2023-09-04T12:58:00.047623179+00:00 [INFO] /mnt/backups is a mount point
+2023-09-04T12:58:00.064476995+00:00 [INFO] Start making tar
+2023-09-04T12:58:00.080125917+00:00 [INFO] Reading dir
+2023-09-04T13:04:42.711363563+00:00 [INFO] Program started
+2023-09-04T13:04:42.731659716+00:00 [INFO] Config file already exists at "./config/config.yml"
+2023-09-04T13:04:42.742846805+00:00 [INFO] Initializing config
+2023-09-04T13:04:42.759600801+00:00 [INFO] Program execution started
+2023-09-04T13:04:42.769009636+00:00 [INFO] Sleep time first - 17s
+2023-09-04T13:05:00.790893421+00:00 [INFO] /mnt/backups is a mount point
+2023-09-04T13:05:00.801280877+00:00 [INFO] Start making tar
+2023-09-04T13:05:00.810630642+00:00 [INFO] Reading dir
+2023-09-04T13:05:37.931357749+00:00 [INFO] Program started
+2023-09-04T13:05:37.949600536+00:00 [INFO] Config file already exists at "./config/config.yml"
+2023-09-04T13:05:37.960259269+00:00 [INFO] Initializing config
+2023-09-04T13:05:37.972938996+00:00 [INFO] Program execution started
+2023-09-04T13:05:37.986596108+00:00 [INFO] Sleep time first - 22s
+2023-09-04T13:06:01.009815599+00:00 [INFO] /mnt/backups is a mount point
+2023-09-04T13:06:01.020408559+00:00 [INFO] Start making tar
+2023-09-04T13:06:01.029587828+00:00 [INFO] Reading dir
+2023-09-04T13:06:01.039027723+00:00 [INFO] Creating tar: /mnt/backups/r_archiver_old.tar.gz
+2023-09-04T13:06:23.071203964+00:00 [WARN] Excluded: "/var/www/r_archiver_old/target"
+2023-09-04T13:06:23.080051744+00:00 [INFO] Tar finished: /mnt/backups/r_archiver_old.tar.gz
+2023-09-04T13:06:23.096227341+00:00 [INFO] Creating tar: /mnt/backups/for_study.tar.gz
+2023-09-04T13:06:23.132409340+00:00 [WARN] Excluded: "/var/www/for_study/.git/description"
+2023-09-04T13:06:23.141168820+00:00 [WARN] Excluded: "/var/www/for_study/.git/HEAD"
+2023-09-04T13:06:23.149881994+00:00 [WARN] Excluded: "/var/www/for_study/.git/objects"
+2023-09-04T13:06:23.159515345+00:00 [WARN] Excluded: "/var/www/for_study/.git/info"
+2023-09-04T13:06:23.168568156+00:00 [WARN] Excluded: "/var/www/for_study/.git/refs"
+2023-09-04T13:06:23.177937683+00:00 [WARN] Excluded: "/var/www/for_study/.git/hooks"
+2023-09-04T13:06:23.186823288+00:00 [WARN] Excluded: "/var/www/for_study/.git/config"
+2023-09-04T13:06:23.196470041+00:00 [INFO] Tar finished: /mnt/backups/for_study.tar.gz
+2023-09-04T13:06:23.209339802+00:00 [INFO] Creating tar: /mnt/backups/rustlings.tar.gz
+2023-09-04T13:06:23.229953900+00:00 [WARN] Excluded: "/var/www/rustlings/flake.nix"
+2023-09-04T13:06:23.241858165+00:00 [WARN] Excluded: "/var/www/rustlings/flake.lock"
+2023-09-04T13:06:23.251365984+00:00 [WARN] Excluded: "/var/www/rustlings/LICENSE"
+2023-09-04T13:06:23.261917969+00:00 [WARN] Excluded: "/var/www/rustlings/install.ps1"
+2023-09-04T13:06:23.271371294+00:00 [WARN] Excluded: "/var/www/rustlings/install.sh"
+2023-09-04T13:06:23.282316261+00:00 [WARN] Excluded: "/var/www/rustlings/Cargo.toml"
+2023-09-04T13:06:23.291221536+00:00 [WARN] Excluded: "/var/www/rustlings/.replit"
+2023-09-04T13:06:23.300189036+00:00 [WARN] Excluded: "/var/www/rustlings/README.md"
+2023-09-04T13:06:23.309426639+00:00 [WARN] Excluded: "/var/www/rustlings/.vscode"
+2023-09-04T13:06:23.318241272+00:00 [WARN] Excluded: "/var/www/rustlings/.all-contributorsrc"
+2023-09-04T13:06:23.329797531+00:00 [WARN] Excluded: "/var/www/rustlings/CONTRIBUTING.md"
+2023-09-04T13:06:23.342824477+00:00 [WARN] Excluded: "/var/www/rustlings/Cargo.lock"
+2023-09-04T13:06:23.356490178+00:00 [WARN] Excluded: "/var/www/rustlings/shell.nix"
+2023-09-04T13:06:23.372516458+00:00 [WARN] Excluded: "/var/www/rustlings/tests"
+2023-09-04T13:06:23.384703502+00:00 [WARN] Excluded: "/var/www/rustlings/.gitpod.yml"
+2023-09-04T13:06:23.399534901+00:00 [WARN] Excluded: "/var/www/rustlings/.github"
+2023-09-04T13:06:23.412238612+00:00 [WARN] Excluded: "/var/www/rustlings/src"
+2023-09-04T13:06:23.425138813+00:00 [WARN] Excluded: "/var/www/rustlings/CHANGELOG.md"
+2023-09-04T13:06:23.436973723+00:00 [WARN] Excluded: "/var/www/rustlings/AUTHORS.md"
+2023-09-04T13:06:23.448614526+00:00 [WARN] Excluded: "/var/www/rustlings/exercises"
+2023-09-04T13:06:23.458790807+00:00 [WARN] Excluded: "/var/www/rustlings/.gitignore"
+2023-09-04T13:06:23.469402001+00:00 [WARN] Excluded: "/var/www/rustlings/info.toml"
+2023-09-04T13:06:23.478994564+00:00 [WARN] Excluded: "/var/www/rustlings/.editorconfig"
+2023-09-04T13:06:23.488027411+00:00 [WARN] Excluded: "/var/www/rustlings/.git"
+2023-09-04T13:06:23.497048665+00:00 [WARN] Excluded: "/var/www/rustlings/target"
+2023-09-04T13:06:23.506830880+00:00 [INFO] Tar finished: /mnt/backups/rustlings.tar.gz
+2023-09-04T13:06:23.521228032+00:00 [INFO] Creating tar: /mnt/backups/test.tar.tar.gz
+2023-09-04T13:13:17.380274443+00:00 [INFO] Program started
+2023-09-04T13:13:17.397185597+00:00 [INFO] Config file already exists at "./config/config.yml"
+2023-09-04T13:13:17.406426122+00:00 [INFO] Initializing config
+2023-09-04T13:13:17.417328981+00:00 [INFO] Program execution started
+2023-09-04T13:13:17.427437564+00:00 [INFO] Sleep time first - 42s
+2023-09-04T13:14:00.450165355+00:00 [INFO] /mnt/backups is a mount point
+2023-09-04T13:14:00.462645634+00:00 [INFO] Start making tar
+2023-09-04T13:14:00.474500064+00:00 [INFO] Reading dir
+2023-09-04T13:14:00.486979941+00:00 [INFO] Creating tar: /mnt/backups/r_archiver_old.tar.gz
+2023-09-04T13:14:21.903555612+00:00 [WARN] Excluded: "/var/www/r_archiver_old/target"
+2023-09-04T13:14:21.912664578+00:00 [INFO] Tar finished: /mnt/backups/r_archiver_old.tar.gz
+2023-09-04T13:14:21.928792594+00:00 [INFO] Creating tar: /mnt/backups/for_study.tar.gz
+2023-09-04T13:14:21.945491665+00:00 [WARN] Excluded: "/var/www/for_study/.git/description"
+2023-09-04T13:14:21.954380480+00:00 [WARN] Excluded: "/var/www/for_study/.git/HEAD"
+2023-09-04T13:14:21.963227136+00:00 [WARN] Excluded: "/var/www/for_study/.git/objects"
+2023-09-04T13:14:21.971573213+00:00 [WARN] Excluded: "/var/www/for_study/.git/info"
+2023-09-04T13:14:21.981769011+00:00 [WARN] Excluded: "/var/www/for_study/.git/refs"
+2023-09-04T13:14:21.993953170+00:00 [WARN] Excluded: "/var/www/for_study/.git/hooks"
+2023-09-04T13:14:22.005746890+00:00 [WARN] Excluded: "/var/www/for_study/.git/config"
+2023-09-04T13:14:22.017376817+00:00 [INFO] Tar finished: /mnt/backups/for_study.tar.gz
+2023-09-04T13:14:22.031510250+00:00 [INFO] Creating tar: /mnt/backups/rustlings.tar.gz
+2023-09-04T13:14:22.053075827+00:00 [WARN] Excluded: "/var/www/rustlings/flake.nix"
+2023-09-04T13:14:22.065956917+00:00 [WARN] Excluded: "/var/www/rustlings/flake.lock"
+2023-09-04T13:14:22.079036980+00:00 [WARN] Excluded: "/var/www/rustlings/LICENSE"
+2023-09-04T13:14:22.091244101+00:00 [WARN] Excluded: "/var/www/rustlings/install.ps1"
+2023-09-04T13:14:22.103056253+00:00 [WARN] Excluded: "/var/www/rustlings/install.sh"
+2023-09-04T13:14:22.115194380+00:00 [WARN] Excluded: "/var/www/rustlings/Cargo.toml"
+2023-09-04T13:14:22.127364023+00:00 [WARN] Excluded: "/var/www/rustlings/.replit"
+2023-09-04T13:14:22.141486551+00:00 [WARN] Excluded: "/var/www/rustlings/README.md"
+2023-09-04T13:14:22.154001493+00:00 [WARN] Excluded: "/var/www/rustlings/.vscode"
+2023-09-04T13:14:22.166447852+00:00 [WARN] Excluded: "/var/www/rustlings/.all-contributorsrc"
+2023-09-04T13:14:22.184792144+00:00 [WARN] Excluded: "/var/www/rustlings/CONTRIBUTING.md"
+2023-09-04T13:14:22.198560219+00:00 [WARN] Excluded: "/var/www/rustlings/Cargo.lock"
+2023-09-04T13:14:22.213373313+00:00 [WARN] Excluded: "/var/www/rustlings/shell.nix"
+2023-09-04T13:14:22.227218797+00:00 [WARN] Excluded: "/var/www/rustlings/tests"
+2023-09-04T13:14:22.240764835+00:00 [WARN] Excluded: "/var/www/rustlings/.gitpod.yml"
+2023-09-04T13:14:22.253988111+00:00 [WARN] Excluded: "/var/www/rustlings/.github"
+2023-09-04T13:14:22.267179651+00:00 [WARN] Excluded: "/var/www/rustlings/src"
+2023-09-04T13:14:22.280962308+00:00 [WARN] Excluded: "/var/www/rustlings/CHANGELOG.md"
+2023-09-04T13:14:22.294951532+00:00 [WARN] Excluded: "/var/www/rustlings/AUTHORS.md"
+2023-09-04T13:14:22.307686494+00:00 [WARN] Excluded: "/var/www/rustlings/exercises"
+2023-09-04T13:14:22.319921203+00:00 [WARN] Excluded: "/var/www/rustlings/.gitignore"
+2023-09-04T13:14:22.333269042+00:00 [WARN] Excluded: "/var/www/rustlings/info.toml"
+2023-09-04T13:14:22.345846693+00:00 [WARN] Excluded: "/var/www/rustlings/.editorconfig"
+2023-09-04T13:14:22.358600821+00:00 [WARN] Excluded: "/var/www/rustlings/.git"
+2023-09-04T13:14:22.371403966+00:00 [WARN] Excluded: "/var/www/rustlings/target"
+2023-09-04T13:14:22.383870085+00:00 [INFO] Tar finished: /mnt/backups/rustlings.tar.gz
+2023-09-04T13:14:22.398170180+00:00 [INFO] Creating tar: /mnt/backups/test.tar.tar.gz
+2023-09-04T13:18:47.420395422+00:00 [INFO] Program started
+2023-09-04T13:18:47.441227173+00:00 [INFO] Config file already exists at "./config/config.yml"
+2023-09-04T13:18:47.454120862+00:00 [INFO] Initializing config
+2023-09-04T13:18:47.468531206+00:00 [INFO] Program execution started
+2023-09-04T13:18:47.484472166+00:00 [INFO] Sleep time first - 12s
+2023-09-04T13:19:13.639301998+00:00 [INFO] Program started
+2023-09-04T13:19:13.656888609+00:00 [INFO] Config file already exists at "./config/config.yml"
+2023-09-04T13:19:13.668069069+00:00 [INFO] Initializing config
+2023-09-04T13:19:13.677897396+00:00 [INFO] Program execution started
+2023-09-04T13:19:13.687596916+00:00 [INFO] Sleep time first - 46s
+2023-09-04T13:20:00.708638564+00:00 [INFO] /mnt/backups is a mount point
+2023-09-04T13:20:00.726142302+00:00 [INFO] Start making tar
+2023-09-04T13:20:00.739580060+00:00 [INFO] Reading dir
+2023-09-04T13:20:00.752242432+00:00 [INFO] Creating tar: /mnt/backups/r_archiver_old.tar.gz
+2023-09-04T13:20:23.286365806+00:00 [WARN] Excluded: "/var/www/r_archiver_old/target"
+2023-09-04T13:20:23.295241912+00:00 [INFO] Tar finished: /mnt/backups/r_archiver_old.tar.gz
+2023-09-04T13:20:23.309181622+00:00 [INFO] Creating tar: /mnt/backups/for_study.tar.gz
+2023-09-04T13:20:23.326602775+00:00 [WARN] Excluded: "/var/www/for_study/.git/description"
+2023-09-04T13:20:23.337014625+00:00 [WARN] Excluded: "/var/www/for_study/.git/HEAD"
+2023-09-04T13:20:23.346758611+00:00 [WARN] Excluded: "/var/www/for_study/.git/objects"
+2023-09-04T13:20:23.356847051+00:00 [WARN] Excluded: "/var/www/for_study/.git/info"
+2023-09-04T13:20:23.368169291+00:00 [WARN] Excluded: "/var/www/for_study/.git/refs"
+2023-09-04T13:20:23.380328295+00:00 [WARN] Excluded: "/var/www/for_study/.git/hooks"
+2023-09-04T13:20:23.392442521+00:00 [WARN] Excluded: "/var/www/for_study/.git/config"
+2023-09-04T13:20:23.404345458+00:00 [INFO] Tar finished: /mnt/backups/for_study.tar.gz
+2023-09-04T13:20:23.422301417+00:00 [INFO] Creating tar: /mnt/backups/rustlings.tar.gz
+2023-09-04T13:20:23.443453783+00:00 [WARN] Excluded: "/var/www/rustlings/flake.nix"
+2023-09-04T13:20:23.457756132+00:00 [WARN] Excluded: "/var/www/rustlings/flake.lock"
+2023-09-04T13:20:23.469763830+00:00 [WARN] Excluded: "/var/www/rustlings/LICENSE"
+2023-09-04T13:20:23.481028566+00:00 [WARN] Excluded: "/var/www/rustlings/install.ps1"
+2023-09-04T13:20:23.492943945+00:00 [WARN] Excluded: "/var/www/rustlings/install.sh"
+2023-09-04T13:20:23.504059285+00:00 [WARN] Excluded: "/var/www/rustlings/Cargo.toml"
+2023-09-04T13:20:23.515152838+00:00 [WARN] Excluded: "/var/www/rustlings/.replit"
+2023-09-04T13:20:23.526743265+00:00 [WARN] Excluded: "/var/www/rustlings/README.md"
+2023-09-04T13:20:23.539791641+00:00 [WARN] Excluded: "/var/www/rustlings/.vscode"
+2023-09-04T13:20:23.551278491+00:00 [WARN] Excluded: "/var/www/rustlings/.all-contributorsrc"
+2023-09-04T13:20:23.562589545+00:00 [WARN] Excluded: "/var/www/rustlings/CONTRIBUTING.md"
+2023-09-04T13:20:23.573769201+00:00 [WARN] Excluded: "/var/www/rustlings/Cargo.lock"
+2023-09-04T13:20:23.584945115+00:00 [WARN] Excluded: "/var/www/rustlings/shell.nix"
+2023-09-04T13:20:23.596902575+00:00 [WARN] Excluded: "/var/www/rustlings/tests"
+2023-09-04T13:20:23.608903305+00:00 [WARN] Excluded: "/var/www/rustlings/.gitpod.yml"
+2023-09-04T13:20:23.619552304+00:00 [WARN] Excluded: "/var/www/rustlings/.github"
+2023-09-04T13:20:23.628106009+00:00 [WARN] Excluded: "/var/www/rustlings/src"
+2023-09-04T13:20:23.636394294+00:00 [WARN] Excluded: "/var/www/rustlings/CHANGELOG.md"
+2023-09-04T13:20:23.645271637+00:00 [WARN] Excluded: "/var/www/rustlings/AUTHORS.md"
+2023-09-04T13:20:23.655763473+00:00 [WARN] Excluded: "/var/www/rustlings/exercises"
+2023-09-04T13:20:23.667079921+00:00 [WARN] Excluded: "/var/www/rustlings/.gitignore"
+2023-09-04T13:20:23.675570841+00:00 [WARN] Excluded: "/var/www/rustlings/info.toml"
+2023-09-04T13:20:23.684554681+00:00 [WARN] Excluded: "/var/www/rustlings/.editorconfig"
+2023-09-04T13:20:23.693165583+00:00 [WARN] Excluded: "/var/www/rustlings/.git"
+2023-09-04T13:20:23.702033307+00:00 [WARN] Excluded: "/var/www/rustlings/target"
+2023-09-04T13:20:23.710912293+00:00 [INFO] Tar finished: /mnt/backups/rustlings.tar.gz
+2023-09-04T13:20:23.721150004+00:00 [INFO] Creating tar: /mnt/backups/r_archiver.tar.gz
+2023-09-04T13:20:24.456734085+00:00 [WARN] Excluded: "/var/www/r_archiver/target"
+2023-09-04T13:20:24.458114756+00:00 [INFO] Tar finished: /mnt/backups/r_archiver.tar.gz
+2023-09-04T13:20:24.479295239+00:00 [INFO] Sleep time first - 86375s
+2023-09-04T13:24:29.619107603+00:00 [INFO] Program started
+2023-09-04T13:24:29.635002204+00:00 [INFO] Config file already exists at "./config/config.yml"
+2023-09-04T13:24:29.644136816+00:00 [INFO] Initializing config
+2023-09-04T13:24:29.653765905+00:00 [INFO] Program execution started
+2023-09-04T13:24:29.663470432+00:00 [INFO] Sleep time first - 30s
+2023-09-04T13:25:00.686547981+00:00 [INFO] /mnt/backups is a mount point
+2023-09-04T13:25:00.701474556+00:00 [INFO] Start making tar
+2023-09-04T13:25:00.715291907+00:00 [INFO] Reading dir
+2023-09-04T13:25:00.729368932+00:00 [INFO] Creating tar: /mnt/backups/r_archiver_old.tar.gz
+2023-09-04T13:25:21.530491236+00:00 [WARN] Excluded: "/var/www/r_archiver_old/target"
+2023-09-04T13:25:21.544965253+00:00 [INFO] Tar finished: /mnt/backups/r_archiver_old.tar.gz
+2023-09-04T13:25:21.565011955+00:00 [INFO] Creating tar: /mnt/backups/for_study.tar.gz
+2023-09-04T13:25:21.587829075+00:00 [WARN] Excluded: "/var/www/for_study/.git/description"
+2023-09-04T13:25:21.601066779+00:00 [WARN] Excluded: "/var/www/for_study/.git/HEAD"
+2023-09-04T13:25:21.614621885+00:00 [WARN] Excluded: "/var/www/for_study/.git/objects"
+2023-09-04T13:25:21.628145117+00:00 [WARN] Excluded: "/var/www/for_study/.git/info"
+2023-09-04T13:25:21.641610083+00:00 [WARN] Excluded: "/var/www/for_study/.git/refs"
+2023-09-04T13:25:21.655730100+00:00 [WARN] Excluded: "/var/www/for_study/.git/hooks"
+2023-09-04T13:25:21.669319665+00:00 [WARN] Excluded: "/var/www/for_study/.git/config"
+2023-09-04T13:25:21.683835424+00:00 [INFO] Tar finished: /mnt/backups/for_study.tar.gz
+2023-09-04T13:25:21.701910688+00:00 [INFO] Creating tar: /mnt/backups/rustlings.tar.gz
+2023-09-04T13:25:21.724843614+00:00 [WARN] Excluded: "/var/www/rustlings/flake.nix"
+2023-09-04T13:25:21.739066325+00:00 [WARN] Excluded: "/var/www/rustlings/flake.lock"
+2023-09-04T13:25:21.752249535+00:00 [WARN] Excluded: "/var/www/rustlings/LICENSE"
+2023-09-04T13:25:21.767328327+00:00 [WARN] Excluded: "/var/www/rustlings/install.ps1"
+2023-09-04T13:25:21.780546071+00:00 [WARN] Excluded: "/var/www/rustlings/install.sh"
+2023-09-04T13:25:21.793941198+00:00 [WARN] Excluded: "/var/www/rustlings/Cargo.toml"
+2023-09-04T13:25:21.807707047+00:00 [WARN] Excluded: "/var/www/rustlings/.replit"
+2023-09-04T13:25:21.821202507+00:00 [WARN] Excluded: "/var/www/rustlings/README.md"
+2023-09-04T13:25:21.835006261+00:00 [WARN] Excluded: "/var/www/rustlings/.vscode"
+2023-09-04T13:25:21.848750475+00:00 [WARN] Excluded: "/var/www/rustlings/.all-contributorsrc"
+2023-09-04T13:25:21.862358333+00:00 [WARN] Excluded: "/var/www/rustlings/CONTRIBUTING.md"
+2023-09-04T13:25:21.872797745+00:00 [WARN] Excluded: "/var/www/rustlings/Cargo.lock"
+2023-09-04T13:25:21.882199461+00:00 [WARN] Excluded: "/var/www/rustlings/shell.nix"
+2023-09-04T13:25:21.891590479+00:00 [WARN] Excluded: "/var/www/rustlings/tests"
+2023-09-04T13:25:21.901705334+00:00 [WARN] Excluded: "/var/www/rustlings/.gitpod.yml"
+2023-09-04T13:25:21.911220141+00:00 [WARN] Excluded: "/var/www/rustlings/.github"
+2023-09-04T13:25:21.921383140+00:00 [WARN] Excluded: "/var/www/rustlings/src"
+2023-09-04T13:25:21.930944954+00:00 [WARN] Excluded: "/var/www/rustlings/CHANGELOG.md"
+2023-09-04T13:25:21.942659092+00:00 [WARN] Excluded: "/var/www/rustlings/AUTHORS.md"
+2023-09-04T13:25:21.952344594+00:00 [WARN] Excluded: "/var/www/rustlings/exercises"
+2023-09-04T13:25:21.965552756+00:00 [WARN] Excluded: "/var/www/rustlings/.gitignore"
+2023-09-04T13:25:21.979700659+00:00 [WARN] Excluded: "/var/www/rustlings/info.toml"
+2023-09-04T13:25:21.989812518+00:00 [WARN] Excluded: "/var/www/rustlings/.editorconfig"
+2023-09-04T13:25:21.999503666+00:00 [WARN] Excluded: "/var/www/rustlings/.git"
+2023-09-04T13:25:22.009291693+00:00 [WARN] Excluded: "/var/www/rustlings/target"
+2023-09-04T13:25:22.018953245+00:00 [INFO] Tar finished: /mnt/backups/rustlings.tar.gz
+2023-09-04T13:25:22.029914804+00:00 [INFO] Creating tar: /mnt/backups/r_archiver.tar.gz
+2023-09-04T13:25:22.297045888+00:00 [WARN] Excluded: "/var/www/r_archiver/target"
+2023-09-04T13:25:22.298353011+00:00 [INFO] Tar finished: /mnt/backups/r_archiver.tar.gz
+2023-09-04T13:25:22.437839162+00:00 [INFO] Successfully unmounted /mnt/backups
+2023-09-04T13:25:22.470640301+00:00 [INFO] Sleep time first - 86377s
+2023-09-05T07:13:14.938705753+00:00 [INFO] Program started
+2023-09-05T07:13:14.955433340+00:00 [INFO] Config file already exists at "./config/config.yml"
+2023-09-05T07:13:14.965863998+00:00 [INFO] Initializing config
+2023-09-05T07:13:14.977630261+00:00 [INFO] Program execution started
+2023-09-05T07:13:14.993348988+00:00 [INFO] Sleep time first - 86385s
+2023-09-05T07:13:28.806298280+00:00 [INFO] Program started
+2023-09-05T07:13:28.826715733+00:00 [INFO] Config file already exists at "./config/config.yml"
+2023-09-05T07:13:28.839279642+00:00 [INFO] Initializing config
+2023-09-05T07:13:28.852780345+00:00 [INFO] Program execution started
+2023-09-05T07:13:28.866239141+00:00 [INFO] Sleep time first - 31s
+2023-09-05T07:14:01.035111984+00:00 [WARN] /mnt/backups is not a mount point
+2023-09-05T07:14:02.374323689+00:00 [INFO] Directory mounted successfully
+2023-09-05T07:14:02.395761532+00:00 [INFO] Start making tar
+2023-09-05T07:14:02.406821961+00:00 [INFO] Creating date directory
+2023-09-05T07:57:06.089101267+00:00 [INFO] Program started
+2023-09-05T07:57:06.110426872+00:00 [INFO] Config file already exists at "./config/config.yml"
+2023-09-05T07:57:06.123382112+00:00 [INFO] Initializing config
+2023-09-05T07:57:06.137371085+00:00 [INFO] Program execution started
+2023-09-05T07:57:06.156474376+00:00 [INFO] Sleep time first - 86393s
+2023-09-05T07:57:31.769881739+00:00 [INFO] Program started
+2023-09-05T07:57:31.785875943+00:00 [INFO] Config file already exists at "./config/config.yml"
+2023-09-05T07:57:31.795180546+00:00 [INFO] Initializing config
+2023-09-05T07:57:31.805178777+00:00 [INFO] Program execution started
+2023-09-05T07:57:31.815768097+00:00 [INFO] Sleep time first - 28s
+2023-09-05T07:58:00.981504386+00:00 [INFO] /mnt/backups is a mount point
+2023-09-05T07:58:00.995382325+00:00 [INFO] Start making tar
+2023-09-05T07:58:01.009382156+00:00 [INFO] Creating date directory
+2023-09-05T07:58:01.029852195+00:00 [INFO] Reading dir
+2023-09-05T07:58:01.045240376+00:00 [INFO] Creating tar: /mnt/backups/2023-09-05/r_archiver_old.tar.gz
+2023-09-05T07:58:24.157255629+00:00 [WARN] Excluded: "/var/www/r_archiver_old/target"
+2023-09-05T07:58:24.170396173+00:00 [INFO] Tar finished: /mnt/backups/2023-09-05/r_archiver_old.tar.gz
+2023-09-05T07:58:24.195678376+00:00 [INFO] Creating tar: /mnt/backups/2023-09-05/for_study.tar.gz
+2023-09-05T07:58:24.239488463+00:00 [WARN] Excluded: "/var/www/for_study/.git/description"
+2023-09-05T07:58:24.253433445+00:00 [WARN] Excluded: "/var/www/for_study/.git/HEAD"
+2023-09-05T07:58:24.267149403+00:00 [WARN] Excluded: "/var/www/for_study/.git/objects"
+2023-09-05T07:58:24.286417704+00:00 [WARN] Excluded: "/var/www/for_study/.git/info"
+2023-09-05T07:58:24.304992643+00:00 [WARN] Excluded: "/var/www/for_study/.git/refs"
+2023-09-05T07:58:24.319775417+00:00 [WARN] Excluded: "/var/www/for_study/.git/hooks"
+2023-09-05T07:58:24.333891955+00:00 [WARN] Excluded: "/var/www/for_study/.git/config"
+2023-09-05T07:58:24.348463139+00:00 [INFO] Tar finished: /mnt/backups/2023-09-05/for_study.tar.gz
+2023-09-05T07:58:24.365558900+00:00 [INFO] Creating tar: /mnt/backups/2023-09-05/rustlings.tar.gz
+2023-09-05T07:58:24.390180862+00:00 [WARN] Excluded: "/var/www/rustlings/flake.nix"
+2023-09-05T07:58:24.405628482+00:00 [WARN] Excluded: "/var/www/rustlings/flake.lock"
+2023-09-05T07:58:24.423420442+00:00 [WARN] Excluded: "/var/www/rustlings/LICENSE"
+2023-09-05T07:58:24.438356158+00:00 [WARN] Excluded: "/var/www/rustlings/install.ps1"
+2023-09-05T07:58:24.452092913+00:00 [WARN] Excluded: "/var/www/rustlings/install.sh"
+2023-09-05T07:58:24.466099375+00:00 [WARN] Excluded: "/var/www/rustlings/Cargo.toml"
+2023-09-05T07:58:24.481685429+00:00 [WARN] Excluded: "/var/www/rustlings/.replit"
+2023-09-05T07:58:24.496066900+00:00 [WARN] Excluded: "/var/www/rustlings/README.md"
+2023-09-05T07:58:24.510351659+00:00 [WARN] Excluded: "/var/www/rustlings/.vscode"
+2023-09-05T07:58:24.524585486+00:00 [WARN] Excluded: "/var/www/rustlings/.all-contributorsrc"
+2023-09-05T07:58:24.540647454+00:00 [WARN] Excluded: "/var/www/rustlings/CONTRIBUTING.md"
+2023-09-05T07:58:24.556310788+00:00 [WARN] Excluded: "/var/www/rustlings/Cargo.lock"
+2023-09-05T07:58:24.571059693+00:00 [WARN] Excluded: "/var/www/rustlings/shell.nix"
+2023-09-05T07:58:24.585630313+00:00 [WARN] Excluded: "/var/www/rustlings/tests"
+2023-09-05T07:58:24.599948742+00:00 [WARN] Excluded: "/var/www/rustlings/.gitpod.yml"
+2023-09-05T07:58:24.614317011+00:00 [WARN] Excluded: "/var/www/rustlings/.github"
+2023-09-05T07:58:24.630091063+00:00 [WARN] Excluded: "/var/www/rustlings/src"
+2023-09-05T07:58:24.644849940+00:00 [WARN] Excluded: "/var/www/rustlings/CHANGELOG.md"
+2023-09-05T07:58:24.659595334+00:00 [WARN] Excluded: "/var/www/rustlings/AUTHORS.md"
+2023-09-05T07:58:24.673849008+00:00 [WARN] Excluded: "/var/www/rustlings/exercises"
+2023-09-05T07:58:24.688287494+00:00 [WARN] Excluded: "/var/www/rustlings/.gitignore"
+2023-09-05T07:58:24.702804355+00:00 [WARN] Excluded: "/var/www/rustlings/info.toml"
+2023-09-05T07:58:24.717300438+00:00 [WARN] Excluded: "/var/www/rustlings/.editorconfig"
+2023-09-05T07:58:24.733436166+00:00 [WARN] Excluded: "/var/www/rustlings/.git"
+2023-09-05T07:58:24.747882817+00:00 [WARN] Excluded: "/var/www/rustlings/target"
+2023-09-05T07:58:24.762874864+00:00 [INFO] Tar finished: /mnt/backups/2023-09-05/rustlings.tar.gz
+2023-09-05T07:58:24.778454491+00:00 [INFO] Creating tar: /mnt/backups/2023-09-05/r_archiver.tar.gz
+2023-09-05T07:58:25.495231817+00:00 [WARN] Excluded: "/var/www/r_archiver/target"
+2023-09-05T07:58:25.496317277+00:00 [INFO] Tar finished: /mnt/backups/2023-09-05/r_archiver.tar.gz
+2023-09-05T07:58:25.637902034+00:00 [INFO] Successfully unmounted /mnt/backups
+2023-09-05T07:58:25.668048433+00:00 [INFO] Sleep time first - 86374s
+2023-09-06T11:05:12.584945684+00:00 [INFO] Program started
+2023-09-06T11:05:12.777659464+00:00 [INFO] Config file already exists at "./config/config.yml"
+2023-09-06T11:05:12.792242825+00:00 [INFO] Initializing config
+2023-09-06T11:05:12.807498921+00:00 [INFO] Program execution started
+2023-09-06T11:05:12.897600731+00:00 [INFO] Sleep time first - 75167s
+2023-09-06T11:05:25.614686407+00:00 [INFO] Program started
+2023-09-06T11:05:25.633983777+00:00 [INFO] Config file already exists at "./config/config.yml"
+2023-09-06T11:05:25.646634471+00:00 [INFO] Initializing config
+2023-09-06T11:05:25.661142575+00:00 [INFO] Program execution started
+2023-09-06T11:05:25.674715778+00:00 [INFO] Sleep time first - 34s
+2023-09-06T11:06:00.797333560+00:00 [WARN] /mnt/backups is not a mount point
+2023-09-06T11:06:03.139103570+00:00 [INFO] Directory mounted successfully
+2023-09-06T11:06:03.161796571+00:00 [INFO] Start making tar
+2023-09-06T11:06:03.176437629+00:00 [INFO] Creating date directory
+2023-09-06T11:06:03.200175916+00:00 [INFO] Reading dir
+2023-09-06T11:06:03.214880725+00:00 [INFO] Creating tar: /mnt/backups/2023-09-06/r_archiver_old.tar.gz
+2023-09-06T11:06:26.835512314+00:00 [WARN] Excluded: "/var/www/r_archiver_old/target"
+2023-09-06T11:06:26.850140110+00:00 [INFO] Tar finished: /mnt/backups/2023-09-06/r_archiver_old.tar.gz
+2023-09-06T11:06:26.876829802+00:00 [INFO] Creating tar: /mnt/backups/2023-09-06/for_study.tar.gz
+2023-09-06T11:06:27.054081518+00:00 [WARN] Excluded: "/var/www/for_study/.git/description"
+2023-09-06T11:06:27.069362455+00:00 [WARN] Excluded: "/var/www/for_study/.git/HEAD"
+2023-09-06T11:06:27.085275015+00:00 [WARN] Excluded: "/var/www/for_study/.git/objects"
+2023-09-06T11:06:27.105327358+00:00 [WARN] Excluded: "/var/www/for_study/.git/info"
+2023-09-06T11:06:27.121948829+00:00 [WARN] Excluded: "/var/www/for_study/.git/refs"
+2023-09-06T11:06:27.138052870+00:00 [WARN] Excluded: "/var/www/for_study/.git/hooks"
+2023-09-06T11:06:27.153795037+00:00 [WARN] Excluded: "/var/www/for_study/.git/config"
+2023-09-06T11:06:27.169241567+00:00 [INFO] Tar finished: /mnt/backups/2023-09-06/for_study.tar.gz
+2023-09-06T11:06:27.188076712+00:00 [INFO] Creating tar: /mnt/backups/2023-09-06/rustlings.tar.gz
+2023-09-06T11:06:27.209588132+00:00 [WARN] Excluded: "/var/www/rustlings/flake.nix"
+2023-09-06T11:06:27.223918719+00:00 [WARN] Excluded: "/var/www/rustlings/flake.lock"
+2023-09-06T11:06:27.238570566+00:00 [WARN] Excluded: "/var/www/rustlings/LICENSE"
+2023-09-06T11:06:27.252992430+00:00 [WARN] Excluded: "/var/www/rustlings/install.ps1"
+2023-09-06T11:06:27.268334326+00:00 [WARN] Excluded: "/var/www/rustlings/install.sh"
+2023-09-06T11:06:27.285491782+00:00 [WARN] Excluded: "/var/www/rustlings/Cargo.toml"
+2023-09-06T11:06:27.300356743+00:00 [WARN] Excluded: "/var/www/rustlings/.replit"
+2023-09-06T11:06:27.314494376+00:00 [WARN] Excluded: "/var/www/rustlings/README.md"
+2023-09-06T11:06:27.330037990+00:00 [WARN] Excluded: "/var/www/rustlings/.vscode"
+2023-09-06T11:06:27.345941983+00:00 [WARN] Excluded: "/var/www/rustlings/.all-contributorsrc"
+2023-09-06T11:06:27.361098487+00:00 [WARN] Excluded: "/var/www/rustlings/CONTRIBUTING.md"
+2023-09-06T11:06:27.375726800+00:00 [WARN] Excluded: "/var/www/rustlings/Cargo.lock"
+2023-09-06T11:06:27.390463507+00:00 [WARN] Excluded: "/var/www/rustlings/shell.nix"
+2023-09-06T11:06:27.405318588+00:00 [WARN] Excluded: "/var/www/rustlings/tests"
+2023-09-06T11:06:27.420563114+00:00 [WARN] Excluded: "/var/www/rustlings/.gitpod.yml"
+2023-09-06T11:06:27.436755883+00:00 [WARN] Excluded: "/var/www/rustlings/.github"
+2023-09-06T11:06:27.452110908+00:00 [WARN] Excluded: "/var/www/rustlings/src"
+2023-09-06T11:06:27.467308345+00:00 [WARN] Excluded: "/var/www/rustlings/CHANGELOG.md"
+2023-09-06T11:06:27.482009488+00:00 [WARN] Excluded: "/var/www/rustlings/AUTHORS.md"
+2023-09-06T11:06:27.497340963+00:00 [WARN] Excluded: "/var/www/rustlings/exercises"
+2023-09-06T11:06:27.513038017+00:00 [WARN] Excluded: "/var/www/rustlings/.gitignore"
+2023-09-06T11:06:27.528435002+00:00 [WARN] Excluded: "/var/www/rustlings/info.toml"
+2023-09-06T11:06:27.542921886+00:00 [WARN] Excluded: "/var/www/rustlings/.editorconfig"
+2023-09-06T11:06:27.557521611+00:00 [WARN] Excluded: "/var/www/rustlings/.git"
+2023-09-06T11:06:27.571690619+00:00 [WARN] Excluded: "/var/www/rustlings/target"
+2023-09-06T11:06:27.586031828+00:00 [INFO] Tar finished: /mnt/backups/2023-09-06/rustlings.tar.gz
+2023-09-06T11:06:27.602589407+00:00 [INFO] Creating tar: /mnt/backups/2023-09-06/test.tar.tar.gz
+2023-09-06T15:11:52.121705845+04:00 [INFO] Program started
+2023-09-06T15:11:52.136410213+04:00 [INFO] Config file already exists at "./config/config.yml"
+2023-09-06T15:11:52.145934519+04:00 [INFO] Initializing config
+2023-09-06T15:11:52.156182048+04:00 [INFO] Program execution started
+2023-09-06T15:11:52.165404185+04:00 [INFO] Sleep time first - 86047s
+2023-09-06T15:12:06.312731714+04:00 [INFO] Program started
+2023-09-06T15:12:06.329586566+04:00 [INFO] Config file already exists at "./config/config.yml"
+2023-09-06T15:12:06.339946524+04:00 [INFO] Initializing config
+2023-09-06T15:12:06.350861861+04:00 [INFO] Program execution started
+2023-09-06T15:12:06.360992804+04:00 [INFO] Sleep time first - 53s
+2023-09-06T15:13:00.458814768+04:00 [INFO] /mnt/backups is a mount point
+2023-09-06T15:13:00.473599941+04:00 [INFO] Start making tar
+2023-09-06T15:13:00.488865998+04:00 [INFO] Creating date directory
+2023-09-06T15:13:00.506482278+04:00 [INFO] Reading dir
+2023-09-06T15:13:00.528251316+04:00 [INFO] Creating tar: /mnt/backups/2023-09-06/r_archiver_old.tar.gz
+2023-09-06T15:13:22.183538988+04:00 [WARN] Excluded: "/var/www/r_archiver_old/target"
+2023-09-06T15:13:22.200050590+04:00 [INFO] Tar finished: /mnt/backups/2023-09-06/r_archiver_old.tar.gz
+2023-09-06T15:13:22.223891740+04:00 [INFO] Creating tar: /mnt/backups/2023-09-06/for_study.tar.gz
+2023-09-06T15:13:22.253238350+04:00 [WARN] Excluded: "/var/www/for_study/.git/description"
+2023-09-06T15:13:22.269383491+04:00 [WARN] Excluded: "/var/www/for_study/.git/HEAD"
+2023-09-06T15:13:22.285873696+04:00 [WARN] Excluded: "/var/www/for_study/.git/objects"
+2023-09-06T15:13:22.300625144+04:00 [WARN] Excluded: "/var/www/for_study/.git/info"
+2023-09-06T15:13:22.315723951+04:00 [WARN] Excluded: "/var/www/for_study/.git/refs"
+2023-09-06T15:13:22.332551594+04:00 [WARN] Excluded: "/var/www/for_study/.git/hooks"
+2023-09-06T15:13:22.347916271+04:00 [WARN] Excluded: "/var/www/for_study/.git/config"
+2023-09-06T15:13:22.363175125+04:00 [INFO] Tar finished: /mnt/backups/2023-09-06/for_study.tar.gz
+2023-09-06T15:13:22.380402792+04:00 [INFO] Creating tar: /mnt/backups/2023-09-06/rustlings.tar.gz
+2023-09-06T15:13:22.398921946+04:00 [WARN] Excluded: "/var/www/rustlings/flake.nix"
+2023-09-06T15:13:22.414753397+04:00 [WARN] Excluded: "/var/www/rustlings/flake.lock"
+2023-09-06T15:13:22.431944136+04:00 [WARN] Excluded: "/var/www/rustlings/LICENSE"
+2023-09-06T15:13:22.447117378+04:00 [WARN] Excluded: "/var/www/rustlings/install.ps1"
+2023-09-06T15:13:22.461747641+04:00 [WARN] Excluded: "/var/www/rustlings/install.sh"
+2023-09-06T15:13:22.476622329+04:00 [WARN] Excluded: "/var/www/rustlings/Cargo.toml"
+2023-09-06T15:13:22.491597567+04:00 [WARN] Excluded: "/var/www/rustlings/.replit"
+2023-09-06T15:13:22.506415621+04:00 [WARN] Excluded: "/var/www/rustlings/README.md"
+2023-09-06T15:13:22.522156910+04:00 [WARN] Excluded: "/var/www/rustlings/.vscode"
+2023-09-06T15:13:22.542868671+04:00 [WARN] Excluded: "/var/www/rustlings/.all-contributorsrc"
+2023-09-06T15:13:22.560664841+04:00 [WARN] Excluded: "/var/www/rustlings/CONTRIBUTING.md"
+2023-09-06T15:13:22.577151+04:00 [WARN] Excluded: "/var/www/rustlings/Cargo.lock"
+2023-09-06T15:13:22.592721819+04:00 [WARN] Excluded: "/var/www/rustlings/shell.nix"
+2023-09-06T15:13:22.607578313+04:00 [WARN] Excluded: "/var/www/rustlings/tests"
+2023-09-06T15:13:22.624423517+04:00 [WARN] Excluded: "/var/www/rustlings/.gitpod.yml"
+2023-09-06T15:13:22.641188989+04:00 [WARN] Excluded: "/var/www/rustlings/.github"
+2023-09-06T15:13:22.656477853+04:00 [WARN] Excluded: "/var/www/rustlings/src"
+2023-09-06T15:13:22.671426966+04:00 [WARN] Excluded: "/var/www/rustlings/CHANGELOG.md"
+2023-09-06T15:13:22.685713440+04:00 [WARN] Excluded: "/var/www/rustlings/AUTHORS.md"
+2023-09-06T15:13:22.700618414+04:00 [WARN] Excluded: "/var/www/rustlings/exercises"
+2023-09-06T15:13:22.714762184+04:00 [WARN] Excluded: "/var/www/rustlings/.gitignore"
+2023-09-06T15:13:22.729094671+04:00 [WARN] Excluded: "/var/www/rustlings/info.toml"
+2023-09-06T15:13:22.743995629+04:00 [WARN] Excluded: "/var/www/rustlings/.editorconfig"
+2023-09-06T15:13:22.759455411+04:00 [WARN] Excluded: "/var/www/rustlings/.git"
+2023-09-06T15:13:22.776985535+04:00 [WARN] Excluded: "/var/www/rustlings/target"
+2023-09-06T15:13:22.792423022+04:00 [INFO] Tar finished: /mnt/backups/2023-09-06/rustlings.tar.gz
+2023-09-06T15:13:22.812058265+04:00 [INFO] Creating tar: /mnt/backups/2023-09-06/test.tar.tar.gz
+2023-09-06T15:13:22.827208042+04:00 [INFO] Creating tar: /mnt/backups/2023-09-06/r_archiver.tar.gz
+2023-09-06T15:13:24.359950289+04:00 [WARN] Excluded: "/var/www/r_archiver/target"
+2023-09-06T15:13:24.360969021+04:00 [INFO] Tar finished: /mnt/backups/2023-09-06/r_archiver.tar.gz
+2023-09-06T15:13:24.375804558+04:00 [INFO] Creating tar: /mnt/backups/2023-09-06/file1.txt.tar.gz
+2023-09-06T15:13:24.499670816+04:00 [INFO] Successfully unmounted /mnt/backups
+2023-09-06T15:13:24.524205783+04:00 [INFO] Sleep time first - 86375s
+2023-09-06T15:18:28.905454871+04:00 [INFO] Program started
+2023-09-06T15:18:28.932818263+04:00 [INFO] Config file already exists at "./config/config.yml"
+2023-09-06T15:18:28.990900487+04:00 [INFO] Initializing config
+2023-09-06T15:18:29.012211761+04:00 [INFO] Program execution started
+2023-09-06T15:18:29.025726837+04:00 [INFO] Sleep time first - 30s
+2023-09-06T15:19:00.245401393+04:00 [WARN] /mnt/backups is not a mount point
+2023-09-06T15:19:01.198026659+04:00 [INFO] Directory mounted successfully
+2023-09-06T15:19:01.226068453+04:00 [INFO] Start making tar
+2023-09-06T15:19:01.243339641+04:00 [INFO] Creating date directory
+2023-09-06T15:19:01.263880772+04:00 [INFO] Reading dir
+2023-09-06T15:19:01.279324486+04:00 [INFO] Creating tar: /mnt/backups/2023-09-06/test.tar.tar.gz
+2023-09-06T15:19:01.295664351+04:00 [INFO] Creating tar: /mnt/backups/2023-09-06/file1.txt.tar.gz
+2023-09-06T15:19:01.364594254+04:00 [INFO] Successfully unmounted /mnt/backups
+2023-09-06T15:19:01.390456331+04:00 [INFO] Sleep time first - 86398s
+2023-09-06T15:20:07.316423390+04:00 [INFO] Program started
+2023-09-06T15:20:07.343066683+04:00 [INFO] Config file already exists at "./config/config.yml"
+2023-09-06T15:20:07.355524693+04:00 [INFO] Initializing config
+2023-09-06T15:20:07.368770535+04:00 [INFO] Program execution started
+2023-09-06T15:20:07.383391475+04:00 [INFO] Sleep time first - 86392s
+2023-09-06T15:20:23.726511965+04:00 [INFO] Program started
+2023-09-06T15:20:23.744670531+04:00 [INFO] Config file already exists at "./config/config.yml"
+2023-09-06T15:20:23.755862323+04:00 [INFO] Initializing config
+2023-09-06T15:20:23.767676101+04:00 [INFO] Program execution started
+2023-09-06T15:20:23.778735474+04:00 [INFO] Sleep time first - 36s
+2023-09-06T15:21:00.943552644+04:00 [WARN] /mnt/backups is not a mount point
+2023-09-06T15:21:01.932852949+04:00 [INFO] Directory mounted successfully
+2023-09-06T15:21:01.962308540+04:00 [INFO] Start making tar
+2023-09-06T15:21:01.979211139+04:00 [INFO] Creating date directory
+2023-09-06T15:21:01.998866482+04:00 [INFO] Reading dir
+2023-09-06T15:21:02.016259353+04:00 [INFO] Creating tar: /mnt/backups/2023-09-06/test.tar.tar.gz
+2023-09-06T15:21:02.044034711+04:00 [INFO] Creating tar: /mnt/backups/2023-09-06/file1.txt.tar.gz
+2023-09-06T15:21:02.188262466+04:00 [INFO] Successfully unmounted /mnt/backups
+2023-09-06T15:21:02.219098269+04:00 [INFO] Sleep time first - 86397s
+2023-09-06T15:31:57.675540599+04:00 [INFO] Program started
+2023-09-06T15:31:57.697822335+04:00 [INFO] Config file already exists at "./config/config.yml"
+2023-09-06T15:31:57.708735134+04:00 [INFO] Initializing config
+2023-09-06T15:31:57.720070878+04:00 [INFO] Program execution started
+2023-09-06T15:31:57.730686014+04:00 [INFO] Sleep time first - 2s
+2023-09-06T15:32:00.986301005+04:00 [WARN] /mnt/backups is not a mount point
+2023-09-06T15:32:02.519497069+04:00 [INFO] Directory mounted successfully
+2023-09-06T15:32:02.538539903+04:00 [INFO] Start making tar
+2023-09-06T15:32:02.551788781+04:00 [INFO] Creating date directory
+2023-09-06T15:32:02.567930667+04:00 [INFO] Reading dir
+2023-09-06T15:32:02.580258943+04:00 [INFO] Creating tar: /mnt/backups/2023-09-06/test.tar.tar.gz
+2023-09-06T15:33:27.902746537+04:00 [INFO] Program started
+2023-09-06T15:33:27.924674883+04:00 [INFO] Config file already exists at "./config/config.yml"
+2023-09-06T15:33:27.941027548+04:00 [INFO] Initializing config
+2023-09-06T15:33:27.957964705+04:00 [INFO] Program execution started
+2023-09-06T15:33:27.972876189+04:00 [INFO] Sleep time first - 32s
+2023-09-06T15:34:01.053391594+04:00 [INFO] /mnt/backups is a mount point
+2023-09-06T15:34:01.064571897+04:00 [INFO] Start making tar
+2023-09-06T15:34:01.075150401+04:00 [INFO] Creating date directory
+2023-09-06T15:34:01.087143206+04:00 [INFO] Reading dir
+2023-09-06T15:34:01.098043642+04:00 [INFO] Creating tar: /mnt/backups/2023-09-06/test.tar.tar.gz
+2023-09-06T15:34:01.108565020+04:00 [INFO] Creating tar: /mnt/backups/2023-09-06/file1.txt.tar.gz
+2023-09-06T15:34:01.199653172+04:00 [INFO] Successfully unmounted /mnt/backups
+2023-09-06T15:34:01.217721261+04:00 [INFO] Sleep time first - 86398s
+2023-09-06T15:36:45.103043151+04:00 [INFO] Program started
+2023-09-06T15:36:45.122946833+04:00 [INFO] Config file already exists at "./config/config.yml"
+2023-09-06T15:36:45.132892541+04:00 [INFO] Initializing config
+2023-09-06T15:36:45.143947122+04:00 [INFO] Program execution started
+2023-09-06T15:36:45.157355120+04:00 [INFO] Sleep time first - 14s
+2023-09-06T15:37:00.369947948+04:00 [WARN] /mnt/backups is not a mount point
+2023-09-06T15:37:01.271828878+04:00 [INFO] Directory mounted successfully
+2023-09-06T15:37:01.299392490+04:00 [INFO] Start making tar
+2023-09-06T15:37:01.315781848+04:00 [INFO] Creating date directory
+2023-09-06T15:37:01.339962729+04:00 [INFO] Reading dir
+2023-09-06T15:37:01.357083364+04:00 [INFO] Creating tar: /mnt/backups/2023-09-06/test.tar.tar.gz
+2023-09-06T15:37:01.374394726+04:00 [INFO] Creating tar: /mnt/backups/2023-09-06/file1.txt.tar.gz
+2023-09-06T15:37:01.519908962+04:00 [INFO] Successfully unmounted /mnt/backups
+2023-09-06T15:37:01.537715481+04:00 [INFO] Sleep time first - 86398s
+2023-09-06T15:38:26.496490837+04:00 [INFO] Program started
+2023-09-06T15:38:26.525554060+04:00 [INFO] Config file already exists at "./config/config.yml"
+2023-09-06T15:38:26.540827917+04:00 [INFO] Initializing config
+2023-09-06T15:38:26.558159974+04:00 [INFO] Program execution started
+2023-09-06T15:38:26.618825810+04:00 [INFO] Sleep time first - 33s
+2023-09-06T15:39:00.741795787+04:00 [WARN] /mnt/backups is not a mount point
+2023-09-06T15:39:01.801179072+04:00 [INFO] Directory mounted successfully
+2023-09-06T15:39:01.825579920+04:00 [INFO] Start making tar
+2023-09-06T15:39:01.841072696+04:00 [INFO] Creating date directory
+2023-09-06T15:39:01.857984795+04:00 [INFO] Reading dir
+2023-09-06T15:39:01.872917413+04:00 [INFO] Creating tar: /mnt/backups/2023-09-06/test.tar.tar.gz
+2023-09-06T15:45:30.352146392+04:00 [INFO] Program started
+2023-09-06T15:45:30.383936590+04:00 [INFO] Config file already exists at "./config/config.yml"
+2023-09-06T15:45:30.400432795+04:00 [INFO] Initializing config
+2023-09-06T15:45:30.416468998+04:00 [INFO] Program execution started
+2023-09-06T15:45:30.428113885+04:00 [INFO] Sleep time first - 29s
+2023-09-06T15:46:00.551217007+04:00 [INFO] /mnt/backups is a mount point
+2023-09-06T15:46:00.571027894+04:00 [INFO] Start making tar
+2023-09-06T15:46:00.592977417+04:00 [INFO] Creating date directory
+2023-09-06T15:46:00.619548681+04:00 [INFO] Reading dir
+2023-09-06T15:46:00.643761427+04:00 [INFO] Creating tar: /mnt/backups/2023-09-06/test.tar.tar.gz
+2023-09-06T15:46:00.666838182+04:00 [INFO] Creating tar: /mnt/backups/2023-09-06/file1.txt.tar.gz
+2023-09-06T15:46:00.751905854+04:00 [INFO] Successfully unmounted /mnt/backups
+2023-09-06T15:46:00.786316927+04:00 [INFO] Sleep time first - 86399s
+2023-09-06T15:55:16.681301095+04:00 [INFO] Program started
+2023-09-06T15:55:16.702520219+04:00 [INFO] Config file already exists at "./config/config.yml"
+2023-09-06T15:55:16.712841373+04:00 [INFO] Initializing config
+2023-09-06T15:55:16.727025349+04:00 [INFO] Program execution started
+2023-09-06T15:55:16.738706793+04:00 [INFO] Sleep time first - 43s
+2023-09-06T15:56:00.908996307+04:00 [WARN] /mnt/backups is not a mount point
+2023-09-06T15:56:01.823415385+04:00 [INFO] Directory mounted successfully
+2023-09-06T15:56:01.852821093+04:00 [INFO] Start making tar
+2023-09-06T15:56:01.870104055+04:00 [INFO] Creating date directory
+2023-09-06T15:56:01.891447781+04:00 [INFO] Reading dir
+2023-09-06T15:56:01.908306255+04:00 [INFO] Creating tar: /mnt/backups/2023-09-06/test.tar.tar.gz
+2023-09-06T15:56:01.925211413+04:00 [INFO] Creating tar: /mnt/backups/2023-09-06/file1.txt.tar.gz
+2023-09-06T15:56:02.043703346+04:00 [INFO] Successfully unmounted /mnt/backups
+2023-09-06T15:56:02.080227051+04:00 [INFO] Sleep time first - 86397s
+2023-09-06T15:58:02.989512192+04:00 [INFO] Program started
+2023-09-06T15:58:03.013777071+04:00 [INFO] Config file already exists at "./config/config.yml"
+2023-09-06T15:58:03.027193714+04:00 [INFO] Initializing config
+2023-09-06T15:58:03.046047816+04:00 [INFO] Program execution started
+2023-09-06T15:58:03.057595408+04:00 [INFO] Sleep time first - 86396s
+2023-09-06T15:58:09.977425089+04:00 [INFO] Program started
+2023-09-06T15:58:10.002246002+04:00 [INFO] Config file already exists at "./config/config.yml"
+2023-09-06T15:58:10.018867716+04:00 [INFO] Initializing config
+2023-09-06T15:58:10.037177960+04:00 [INFO] Program execution started
+2023-09-06T15:58:10.052666726+04:00 [INFO] Sleep time first - 49s
+2023-09-06T15:59:00.225818160+04:00 [WARN] /mnt/backups is not a mount point
+2023-09-06T15:59:01.157977799+04:00 [INFO] Directory mounted successfully
+2023-09-06T15:59:01.192640972+04:00 [INFO] Start making tar
+2023-09-06T15:59:01.212601293+04:00 [INFO] Creating date directory
+2023-09-06T15:59:01.233269181+04:00 [INFO] Reading dir
+2023-09-06T15:59:01.250702718+04:00 [INFO] Creating tar: /mnt/backups/2023-09-06/test.tar.tar.gz
+2023-09-06T16:00:08.508002863+04:00 [INFO] Program started
+2023-09-06T16:00:08.531190826+04:00 [INFO] Config file already exists at "./config/config.yml"
+2023-09-06T16:00:08.543082358+04:00 [INFO] Initializing config
+2023-09-06T16:00:08.555935103+04:00 [INFO] Program execution started
+2023-09-06T16:00:08.568184606+04:00 [INFO] Sleep time first - 86391s
+2023-09-06T16:00:21.214876785+04:00 [INFO] Program started
+2023-09-06T16:00:21.231403092+04:00 [INFO] Config file already exists at "./config/config.yml"
+2023-09-06T16:00:21.241287939+04:00 [INFO] Initializing config
+2023-09-06T16:00:21.251806379+04:00 [INFO] Program execution started
+2023-09-06T16:00:21.261486797+04:00 [INFO] Sleep time first - 38s
+2023-09-06T16:01:00.356789713+04:00 [INFO] /mnt/backups is a mount point
+2023-09-06T16:01:00.370342678+04:00 [INFO] Start making tar
+2023-09-06T16:01:00.389169922+04:00 [INFO] Creating date directory
+2023-09-06T16:01:00.403156499+04:00 [INFO] Reading dir
+2023-09-06T16:01:00.415809172+04:00 [INFO] Creating tar: /mnt/backups/2023-09-06/test.tar.tar.gz
+2023-09-06T16:02:31.392780563+04:00 [INFO] Program started
+2023-09-06T16:02:31.425792893+04:00 [INFO] Config file already exists at "./config/config.yml"
+2023-09-06T16:02:31.443830060+04:00 [INFO] Initializing config
+2023-09-06T16:02:31.465582654+04:00 [INFO] Program execution started
+2023-09-06T16:02:31.489479630+04:00 [INFO] Sleep time first - 28s
+2023-09-06T16:03:00.516106276+04:00 [INFO] /mnt/backups is a mount point
+2023-09-06T16:03:00.530981110+04:00 [INFO] Start making tar
+2023-09-06T16:03:00.542366186+04:00 [INFO] Creating date directory
+2023-09-06T16:03:00.555822480+04:00 [INFO] Reading dir
+2023-09-06T16:03:00.572267676+04:00 [INFO] Creating tar: /mnt/backups/2023-09-06/test.tar.tar.gz
+2023-09-06T16:06:49.252803687+04:00 [INFO] Program started
+2023-09-06T16:06:49.276654923+04:00 [INFO] Config file already exists at "./config/config.yml"
+2023-09-06T16:06:49.290702944+04:00 [INFO] Initializing config
+2023-09-06T16:06:49.303525990+04:00 [INFO] Program execution started
+2023-09-06T16:06:49.322448757+04:00 [INFO] Sleep time first - 10s
+2023-09-06T16:07:00.350367060+04:00 [INFO] /mnt/backups is a mount point
+2023-09-06T16:07:00.368275409+04:00 [INFO] Start making tar
+2023-09-06T16:07:00.385657747+04:00 [INFO] Creating date directory
+2023-09-06T16:07:00.407385801+04:00 [INFO] Reading dir
+2023-09-06T16:07:00.425506791+04:00 [INFO] Creating tar: /mnt/backups/2023-09-06/test.tar.tar.gz
+2023-09-06T16:07:00.454006066+04:00 [INFO] Creating tar: /mnt/backups/2023-09-06/file1.txt.tar.gz
+2023-09-06T16:07:00.555750634+04:00 [INFO] Successfully unmounted /mnt/backups
+2023-09-06T16:07:00.581780463+04:00 [INFO] Sleep time first - 86399s
+2023-09-06T16:08:16.648827676+04:00 [INFO] Program started
+2023-09-06T16:08:16.675272258+04:00 [INFO] Config file already exists at "./config/config.yml"
+2023-09-06T16:08:16.690760524+04:00 [INFO] Initializing config
+2023-09-06T16:08:16.703919614+04:00 [INFO] Program execution started
+2023-09-06T16:08:16.715930445+04:00 [INFO] Sleep time first - 43s
+2023-09-06T16:09:00.839594476+04:00 [WARN] /mnt/backups is not a mount point
+2023-09-06T16:09:01.780604858+04:00 [INFO] Directory mounted successfully
+2023-09-06T16:09:01.797080446+04:00 [INFO] Start making tar
+2023-09-06T16:09:01.808377419+04:00 [INFO] Creating date directory
+2023-09-06T16:09:01.822507089+04:00 [INFO] Reading dir
+2023-09-06T16:09:01.834941775+04:00 [INFO] Creating tar: /mnt/backups/2023-09-06/test.tar.tar.gz
+2023-09-06T16:09:01.861898916+04:00 [INFO] Creating tar: /mnt/backups/2023-09-06/file1.txt.tar.gz
+2023-09-06T16:09:02.007668182+04:00 [INFO] Successfully unmounted /mnt/backups
+2023-09-06T16:09:02.035863135+04:00 [INFO] Sleep time first - 86397s
+2023-09-06T16:27:18.295561934+04:00 [INFO] Program started
+2023-09-06T16:27:18.380075534+04:00 [INFO] Config file already exists at "./config/config.yml"
+2023-09-06T16:27:18.411674443+04:00 [INFO] Initializing config
+2023-09-06T16:27:18.473526591+04:00 [INFO] Program execution started
+2023-09-06T16:27:18.498520918+04:00 [INFO] Sleep time first - 41s
+2023-09-06T16:28:00.778479453+04:00 [WARN] /mnt/backups is not a mount point
+2023-09-06T16:28:01.734765539+04:00 [INFO] Directory mounted successfully
+2023-09-06T16:28:01.752182349+04:00 [INFO] Start making tar
+2023-09-06T16:28:01.769867976+04:00 [INFO] Creating date directory
+2023-09-06T16:28:01.784572355+04:00 [INFO] Reading dir
+2023-09-06T16:28:01.797345965+04:00 [INFO] Creating tar: /mnt/backups/2023-09-06/test.tar.gz
+2023-09-06T16:28:01.816676395+04:00 [INFO] Creating tar: /mnt/backups/2023-09-06/file1.tar.gz
+2023-09-06T16:28:01.911706988+04:00 [INFO] Successfully unmounted /mnt/backups
+2023-09-06T16:28:01.927529137+04:00 [INFO] Sleep time first - 86398s
+2023-09-06T16:30:15.814353103+04:00 [INFO] Program started
+2023-09-06T16:30:15.841770033+04:00 [INFO] Config file already exists at "./config/config.yml"
+2023-09-06T16:30:15.857902333+04:00 [INFO] Initializing config
+2023-09-06T16:30:15.874483992+04:00 [INFO] Program execution started
+2023-09-06T16:30:15.890521881+04:00 [INFO] Sleep time first - 44s
+2023-09-06T16:31:01.068542834+04:00 [WARN] /mnt/backups is not a mount point
+2023-09-06T16:31:02.076808246+04:00 [INFO] Directory mounted successfully
+2023-09-06T16:31:02.096286725+04:00 [INFO] Start making tar
+2023-09-06T16:31:02.111755050+04:00 [INFO] Creating date directory
+2023-09-06T16:31:02.129300566+04:00 [INFO] Reading dir
+2023-09-06T16:31:02.144724184+04:00 [INFO] Creating tar: /mnt/backups/2023-09-06/test.tar.gz
+2023-09-06T16:37:59.611636739+04:00 [INFO] Program started
+2023-09-06T16:37:59.639505522+04:00 [INFO] Config file already exists at "./config/config.yml"
+2023-09-06T16:37:59.653226620+04:00 [INFO] Initializing config
+2023-09-06T16:37:59.664981265+04:00 [INFO] Program execution started
+2023-09-06T16:37:59.675838418+04:00 [INFO] Sleep time first - 0ns
+2023-09-06T16:38:00.756985130+04:00 [INFO] /mnt/backups is a mount point
+2023-09-06T16:38:00.824146173+04:00 [INFO] Start making tar
+2023-09-06T16:38:00.841824955+04:00 [INFO] Creating date directory
+2023-09-06T16:38:00.855534621+04:00 [INFO] Reading dir
+2023-09-06T16:38:00.867090569+04:00 [INFO] Creating tar: /mnt/backups/2023-09-06/test.tar.gz
+2023-09-06T16:38:00.937265937+04:00 [INFO] Creating tar: /mnt/backups/2023-09-06/file1.tar.gz
+2023-09-06T16:38:01.128057598+04:00 [INFO] Successfully unmounted /mnt/backups
+2023-09-06T16:38:01.225225295+04:00 [INFO] Sleep time first - 86398s
+2023-09-06T16:58:29.840661687+04:00 [INFO] Program started
+2023-09-06T16:58:29.873059734+04:00 [INFO] Config file already exists at "./config/config.yml"
+2023-09-06T16:58:29.890692894+04:00 [INFO] Initializing config
+2023-09-06T16:58:29.909389868+04:00 [INFO] Program execution started
+2023-09-06T16:58:29.927027949+04:00 [INFO] Sleep time first - 30s
+2023-09-06T16:59:01.070509545+04:00 [WARN] /mnt/backups is not a mount point
+2023-09-06T16:59:02.028743153+04:00 [INFO] Directory mounted successfully
+2023-09-06T16:59:02.059852444+04:00 [INFO] Start making tar
+2023-09-06T16:59:02.080447108+04:00 [INFO] Creating date directory
+2023-09-06T16:59:02.106355208+04:00 [INFO] Reading dir
+2023-09-06T16:59:02.132469159+04:00 [INFO] Creating tar: /mnt/backups/2023-09-06/r_archiver_old.tar.gz
+2023-09-06T16:59:24.125851749+04:00 [WARN] Excluded: "/var/www/r_archiver_old/target"
+2023-09-06T16:59:24.138969277+04:00 [INFO] Tar finished: /mnt/backups/2023-09-06/r_archiver_old.tar.gz
+2023-09-06T16:59:24.165131968+04:00 [INFO] Creating tar: /mnt/backups/2023-09-06/for_study.tar.gz
+2023-09-06T16:59:24.211361847+04:00 [WARN] Excluded: "/var/www/for_study/.git/description"
+2023-09-06T16:59:24.230009965+04:00 [WARN] Excluded: "/var/www/for_study/.git/HEAD"
+2023-09-06T16:59:24.247363002+04:00 [WARN] Excluded: "/var/www/for_study/.git/objects"
+2023-09-06T16:59:24.264893156+04:00 [WARN] Excluded: "/var/www/for_study/.git/info"
+2023-09-06T16:59:24.286631702+04:00 [WARN] Excluded: "/var/www/for_study/.git/refs"
+2023-09-06T16:59:24.307457684+04:00 [WARN] Excluded: "/var/www/for_study/.git/hooks"
+2023-09-06T16:59:24.325763579+04:00 [WARN] Excluded: "/var/www/for_study/.git/config"
+2023-09-06T16:59:24.342671799+04:00 [INFO] Tar finished: /mnt/backups/2023-09-06/for_study.tar.gz
+2023-09-06T16:59:24.361686380+04:00 [INFO] Creating tar: /mnt/backups/2023-09-06/rustlings.tar.gz
+2023-09-06T16:59:24.384293749+04:00 [WARN] Excluded: "/var/www/rustlings/flake.nix"
+2023-09-06T16:59:24.401825114+04:00 [WARN] Excluded: "/var/www/rustlings/flake.lock"
+2023-09-06T16:59:24.420196881+04:00 [WARN] Excluded: "/var/www/rustlings/LICENSE"
+2023-09-06T16:59:24.436672205+04:00 [WARN] Excluded: "/var/www/rustlings/install.ps1"
+2023-09-06T16:59:24.453491276+04:00 [WARN] Excluded: "/var/www/rustlings/install.sh"
+2023-09-06T16:59:24.470322021+04:00 [WARN] Excluded: "/var/www/rustlings/Cargo.toml"
+2023-09-06T16:59:24.488522639+04:00 [WARN] Excluded: "/var/www/rustlings/.replit"
+2023-09-06T16:59:24.506280097+04:00 [WARN] Excluded: "/var/www/rustlings/README.md"
+2023-09-06T16:59:24.528669934+04:00 [WARN] Excluded: "/var/www/rustlings/.vscode"
+2023-09-06T16:59:24.547509057+04:00 [WARN] Excluded: "/var/www/rustlings/.all-contributorsrc"
+2023-09-06T16:59:24.567676227+04:00 [WARN] Excluded: "/var/www/rustlings/CONTRIBUTING.md"
+2023-09-06T16:59:24.587594181+04:00 [WARN] Excluded: "/var/www/rustlings/Cargo.lock"
+2023-09-06T16:59:24.605208908+04:00 [WARN] Excluded: "/var/www/rustlings/shell.nix"
+2023-09-06T16:59:24.622603040+04:00 [WARN] Excluded: "/var/www/rustlings/tests"
+2023-09-06T16:59:24.645598110+04:00 [WARN] Excluded: "/var/www/rustlings/.gitpod.yml"
+2023-09-06T16:59:24.666118600+04:00 [WARN] Excluded: "/var/www/rustlings/.github"
+2023-09-06T16:59:24.683419138+04:00 [WARN] Excluded: "/var/www/rustlings/src"
+2023-09-06T16:59:24.701000657+04:00 [WARN] Excluded: "/var/www/rustlings/CHANGELOG.md"
+2023-09-06T16:59:24.717936051+04:00 [WARN] Excluded: "/var/www/rustlings/AUTHORS.md"
+2023-09-06T16:59:24.735016644+04:00 [WARN] Excluded: "/var/www/rustlings/exercises"
+2023-09-06T16:59:24.751574893+04:00 [WARN] Excluded: "/var/www/rustlings/.gitignore"
+2023-09-06T16:59:24.762860740+04:00 [WARN] Excluded: "/var/www/rustlings/info.toml"
+2023-09-06T16:59:24.774265535+04:00 [WARN] Excluded: "/var/www/rustlings/.editorconfig"
+2023-09-06T16:59:24.785743116+04:00 [WARN] Excluded: "/var/www/rustlings/.git"
+2023-09-06T16:59:24.796992629+04:00 [WARN] Excluded: "/var/www/rustlings/target"
+2023-09-06T16:59:24.808859361+04:00 [INFO] Tar finished: /mnt/backups/2023-09-06/rustlings.tar.gz
+2023-09-06T16:59:24.823221646+04:00 [INFO] Creating tar: /mnt/backups/2023-09-06/test.tar.gz
+2023-09-06T16:59:24.844611215+04:00 [INFO] Creating tar: /mnt/backups/2023-09-06/r_archiver.tar.gz
+2023-09-06T16:59:25.740664740+04:00 [WARN] Excluded: "/var/www/r_archiver/target"
+2023-09-06T16:59:25.742164712+04:00 [INFO] Tar finished: /mnt/backups/2023-09-06/r_archiver.tar.gz
+2023-09-06T16:59:25.768129910+04:00 [INFO] Creating tar: /mnt/backups/2023-09-06/file1.tar.gz
+2023-09-06T16:59:25.925980597+04:00 [INFO] Successfully unmounted /mnt/backups
+2023-09-06T16:59:25.948078132+04:00 [INFO] Sleep time first - 86374s
+2023-09-06T17:12:14.119419823+04:00 [INFO] Program started
+2023-09-06T17:12:14.139936320+04:00 [INFO] Config file already exists at "./config/config.yml"
+2023-09-06T17:12:14.157127808+04:00 [INFO] Initializing config
+2023-09-06T17:12:14.176195055+04:00 [INFO] Program execution started
+2023-09-06T17:12:14.194048287+04:00 [INFO] Sleep time first - 85605s
